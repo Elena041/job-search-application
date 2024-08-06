@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Программист Python",
+        "salary": 80000,
+        "url": "https://api.hh.ru/vacancies/104933476?host=hh.ru"
+    },
+    {
+        "name": "Стажер - Python разработчик (роботы)",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/104584448?host=hh.ru"
+    },
+    {
+        "name": "Python разработчик",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/104886378?host=hh.ru"
+    },
+    {
+        "name": "Middle +/ Senior Python developer (Django/FastAPI)",
+        "salary": 200000,
+        "url": "https://api.hh.ru/vacancies/105136686?host=hh.ru"
+    },
+    {
+        "name": "Специалист технической поддержки SQL, Python",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/103891940?host=hh.ru"
+    },
+    {
+        "name": "Python Developer",
+        "salary": 150000,
+        "url": "https://api.hh.ru/vacancies/104167219?host=hh.ru"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": 250000,
+        "url": "https://api.hh.ru/vacancies/104167250?host=hh.ru"
+    },
+    {
+        "name": "Middle Python Developer",
+        "salary": 150000,
+        "url": "https://api.hh.ru/vacancies/104157855?host=hh.ru"
+    },
+    {
+        "name": "Middle Backend Developer (Python и SQL)",
+        "salary": 150000,
+        "url": "https://api.hh.ru/vacancies/104934376?host=hh.ru"
+    },
+    {
+        "name": "Middle Python Developer",
+        "salary": 120000,
+        "url": "https://api.hh.ru/vacancies/103887746?host=hh.ru"
+    },
+    {
+        "name": "Python backend разработчик",
+        "salary": 110000,
+        "url": "https://api.hh.ru/vacancies/103902880?host=hh.ru"
+    },
+    {
+        "name": "Инженер-программист Python/С++ (разработка алгоритмов для приборов аэронавигации)",
+        "salary": 100000,
+        "url": "https://api.hh.ru/vacancies/98226327?host=hh.ru"
+    },
+    {
+        "name": "Python-разработчик систем сбора",
+        "salary": 100000,
+        "url": "https://api.hh.ru/vacancies/72687495?host=hh.ru"
+    },
+    {
+        "name": "Middle Python backend developer (FastAPI)",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/104548603?host=hh.ru"
+    },
+    {
+        "name": "Data Engineer/ML Engineer (Python)",
+        "salary": 220000,
+        "url": "https://api.hh.ru/vacancies/105261448?host=hh.ru"
+    },
+    {
+        "name": "QA Automanion Engineer на Python",
+        "salary": 300000,
+        "url": "https://api.hh.ru/vacancies/105255072?host=hh.ru"
+    },
+    {
+        "name": "Python backend developer",
+        "salary": 140000,
+        "url": "https://api.hh.ru/vacancies/104578756?host=hh.ru"
+    },
+    {
+        "name": "Middle Python (django) разработчик",
+        "salary": 200000,
+        "url": "https://api.hh.ru/vacancies/104181101?host=hh.ru"
+    },
+    {
+        "name": "Middle Python-разработчик",
+        "salary": 140000,
+        "url": "https://api.hh.ru/vacancies/96610425?host=hh.ru"
+    },
+    {
+        "name": "Senior Python Developer",
+        "salary": 300000,
+        "url": "https://api.hh.ru/vacancies/103190592?host=hh.ru"
+    },
+    {
+        "name": "Программист-разработчик компьютерного зрения (python)",
+        "salary": 180000,
+        "url": "https://api.hh.ru/vacancies/104171458?host=hh.ru"
+    },
+    {
+        "name": "Senior Back-End Engineer (Python) for Chris AI",
+        "salary": 5000,
+        "url": "https://api.hh.ru/vacancies/103910079?host=hh.ru"
+    },
+    {
+        "name": "Middle Python developer",
+        "salary": 150000,
+        "url": "https://api.hh.ru/vacancies/72687504?host=hh.ru"
+    },
+    {
+        "name": "Python Developer (Наставник онлайн-курса)",
+        "salary": 50000,
+        "url": "https://api.hh.ru/vacancies/105121995?host=hh.ru"
+    },
+    {
+        "name": "Middle Разработчик Python (Backend)",
+        "salary": 180000,
+        "url": "https://api.hh.ru/vacancies/103792323?host=hh.ru"
+    },
+    {
+        "name": "Разработчик информационных систем (Python/SQL/Golang)",
+        "salary": 150000,
+        "url": "https://api.hh.ru/vacancies/103597668?host=hh.ru"
+    },
+    {
+        "name": "Python Middle Specialist в Cybersecurity core team",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/103605079?host=hh.ru"
+    },
+    {
+        "name": "Ведущий инженер-программист (разработка встраиваемого ПО, С/Python)",
+        "salary": 170000,
+        "url": "https://api.hh.ru/vacancies/96999484?host=hh.ru"
+    },
+    {
+        "name": "QA Automation Engineer (python)",
+        "salary": 250000,
+        "url": "https://api.hh.ru/vacancies/103762221?host=hh.ru"
+    },
+    {
+        "name": "Senior Python Developer (Data Platform)",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/102780519?host=hh.ru"
+    },
+    {
+        "name": "MLOps-инженер/Python-разработчик",
+        "salary": "Not specified",
+        "url": "https://api.hh.ru/vacancies/98111171?host=hh.ru"
+    },
+    {
+        "name": "Senior Automation QA инженер (Selenium, Python)",
+        "salary": 250000,
+        "url": "https://api.hh.ru/vacancies/103601236?host=hh.ru"
+    }
+]
